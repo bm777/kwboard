@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+The Demo is available on [YouTube](https://youtu.be/BHGAesNs0pg)
+
 First, clone the project and run the server :
 
 ```bash
@@ -16,6 +18,7 @@ npm run dev
 # or
 yarn dev
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
