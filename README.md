@@ -2,7 +2,13 @@
 
 ## Getting Started
 
-The Demo is available on [YouTube](https://youtu.be/BHGAesNs0pg)
+## The Demo is available on [YouTube](https://youtu.be/BHGAesNs0pg)
+
+------
+
+![asset](assets/thumb.png)
+
+------
 
 First, clone the project and run the server :
 
