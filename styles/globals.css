@@ -5,3 +5,8 @@
 @tailwind utilities;
 
 
+@layer base {
+    body {
+      @apply bg-gradient-to-r from-[#471C9D] to-[#180368];
+    }
+  }
